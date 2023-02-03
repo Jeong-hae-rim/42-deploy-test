@@ -1,6 +1,6 @@
 # Description
 
-Section2에서 배운 내용을 총 동원하여 나만의 아고라 스테이츠 서버를 만듭니다.
+Section2에서 배운 내용을 총 동원하여 나만의 아고라 스테이츠 서버를 만듭니다!
 
 - [코드스테이츠 fe-sprint-my-agora-states-server 리포지토리](https://github.com/codestates-seb/fe-sprint-my-agora-states-server)에서 자신의 리포지토리로 fork후 과제 진행합니다.
 
